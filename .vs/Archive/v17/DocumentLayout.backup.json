@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\maxsv\\OneDrive\\Desktop\\Archive\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D18054FD-3C0A-A7A0-E45E-095EEEC7B432}|Assembly-CSharp.csproj|c:\\users\\maxsv\\onedrive\\desktop\\archive\\assets\\scripts\\menus\\pausemenucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D18054FD-3C0A-A7A0-E45E-095EEEC7B432}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\menus\\pausemenucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D18054FD-3C0A-A7A0-E45E-095EEEC7B432}|Assembly-CSharp.csproj|C:\\Users\\maxsv\\OneDrive\\Desktop\\Archive\\assets\\scripts\\menus\\menutype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D18054FD-3C0A-A7A0-E45E-095EEEC7B432}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\menus\\menutype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D18054FD-3C0A-A7A0-E45E-095EEEC7B432}|Assembly-CSharp.csproj|C:\\Users\\maxsv\\OneDrive\\Desktop\\Archive\\assets\\scripts\\menus\\menucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D18054FD-3C0A-A7A0-E45E-095EEEC7B432}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\menus\\menucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D18054FD-3C0A-A7A0-E45E-095EEEC7B432}|Assembly-CSharp.csproj|C:\\Users\\maxsv\\OneDrive\\Desktop\\Archive\\assets\\scripts\\menus\\menunavigator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D18054FD-3C0A-A7A0-E45E-095EEEC7B432}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\menus\\menunavigator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D18054FD-3C0A-A7A0-E45E-095EEEC7B432}|Assembly-CSharp.csproj|C:\\Users\\maxsv\\OneDrive\\Desktop\\Archive\\assets\\scripts\\menus\\pausemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D18054FD-3C0A-A7A0-E45E-095EEEC7B432}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\menus\\pausemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D18054FD-3C0A-A7A0-E45E-095EEEC7B432}|Assembly-CSharp.csproj|C:\\Users\\maxsv\\OneDrive\\Desktop\\Archive\\assets\\scripts\\level 4\\finalscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D18054FD-3C0A-A7A0-E45E-095EEEC7B432}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\level 4\\finalscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PauseMenuController.cs",
+              "DocumentMoniker": "C:\\Users\\maxsv\\OneDrive\\Desktop\\Archive\\Assets\\Scripts\\Menus\\PauseMenuController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Menus\\PauseMenuController.cs",
+              "ToolTip": "C:\\Users\\maxsv\\OneDrive\\Desktop\\Archive\\Assets\\Scripts\\Menus\\PauseMenuController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Menus\\PauseMenuController.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAcwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T20:04:30.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MenuType.cs",
+              "DocumentMoniker": "C:\\Users\\maxsv\\OneDrive\\Desktop\\Archive\\Assets\\Scripts\\Menus\\MenuType.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Menus\\MenuType.cs",
+              "ToolTip": "C:\\Users\\maxsv\\OneDrive\\Desktop\\Archive\\Assets\\Scripts\\Menus\\MenuType.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Menus\\MenuType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T20:04:16.297Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MenuNavigator.cs",
+              "DocumentMoniker": "C:\\Users\\maxsv\\OneDrive\\Desktop\\Archive\\Assets\\Scripts\\Menus\\MenuNavigator.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Menus\\MenuNavigator.cs",
+              "ToolTip": "C:\\Users\\maxsv\\OneDrive\\Desktop\\Archive\\Assets\\Scripts\\Menus\\MenuNavigator.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Menus\\MenuNavigator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T20:04:06.333Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PauseMenu.cs",
+              "DocumentMoniker": "C:\\Users\\maxsv\\OneDrive\\Desktop\\Archive\\Assets\\Scripts\\Menus\\PauseMenu.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Menus\\PauseMenu.cs",
+              "ToolTip": "C:\\Users\\maxsv\\OneDrive\\Desktop\\Archive\\Assets\\Scripts\\Menus\\PauseMenu.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Menus\\PauseMenu.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T20:03:20.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MenuController.cs",
+              "DocumentMoniker": "C:\\Users\\maxsv\\OneDrive\\Desktop\\Archive\\Assets\\Scripts\\Menus\\MenuController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Menus\\MenuController.cs",
+              "ToolTip": "C:\\Users\\maxsv\\OneDrive\\Desktop\\Archive\\Assets\\Scripts\\Menus\\MenuController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Menus\\MenuController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-29T05:29:39.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FinalScene.cs",
+              "DocumentMoniker": "C:\\Users\\maxsv\\OneDrive\\Desktop\\Archive\\Assets\\Scripts\\Level 4\\FinalScene.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Level 4\\FinalScene.cs",
+              "ToolTip": "C:\\Users\\maxsv\\OneDrive\\Desktop\\Archive\\Assets\\Scripts\\Level 4\\FinalScene.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Level 4\\FinalScene.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T05:05:58.74Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
